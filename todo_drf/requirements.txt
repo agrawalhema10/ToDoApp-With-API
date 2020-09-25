@@ -303,7 +303,7 @@ tabula-py==2.0.4
 tblib==1.4.0
 temp==2019.4.13
 tensorboard==2.0.2
-tensorflow==2.0.0
+tensorflow==2.0.3
 tensorflow-estimator==2.0.1
 tensorflow-hub==0.7.0
 termcolor==1.1.0
